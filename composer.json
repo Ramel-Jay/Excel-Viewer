@@ -1,0 +1,17 @@
+{
+    "name": "acer/test",
+    "autoload": {
+        "psr-4": {
+            "Acer\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ramel-jay",
+            "email": "rameljay15@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^4.2"
+    }
+}
